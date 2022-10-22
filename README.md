@@ -1,1 +1,2 @@
-# NEU408.github.io
+# slide
+https://neu408.github.io/slide/
